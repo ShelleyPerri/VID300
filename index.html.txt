@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>VID 300</title>
+  </head>
+  <body>
+    <h1>Welcome to the VID 300</h1>
+    <p>The Remote-Release Immobilization Device.</p>
+    <p>More details coming soon...</p>
+  </body>
+</html>
